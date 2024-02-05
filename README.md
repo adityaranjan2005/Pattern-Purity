@@ -11,7 +11,7 @@ For the baseline detection, we applied the following two methodologies:
 Classical NLP Methods (utilizing Bag-of-Words combined with a Classical Machine Learning Model)
 Leveraging transformer-based pre-trained language models (such as BERT)
 
-#Dataset
+# Dataset
 
 Dataset is a text-based dataset for dark pattern automatic detection (TSV Format). Dark pattern texts were obtained from Mathur et al.’s study in 2019, which consists of 1,818 dark pattern texts from shopping sites. Then, we collect non-dark pattern texts on e-commerce sites by accessing and segmenting the sites targeted by the Mathur et al.'s study.
 
