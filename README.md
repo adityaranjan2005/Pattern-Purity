@@ -16,3 +16,5 @@ Leveraging transformer-based pre-trained language models (such as BERT)
 DarkPatternDL-AutoDetect/Model/dataset.tsv is a text-based dataset for dark pattern automatic detection (TSV Format). Dark pattern texts were obtained from Mathur et al.’s study in 2019, which consists of 1,818 dark pattern texts from shopping sites. Then, we collect non-dark pattern texts on e-commerce sites by accessing and segmenting the sites targeted by the Mathur et al.'s study.
 
 Scraping code for non-dark pattern texts is on scraping/. That is implemented using Typscript (Javascript) and Puppeteer.
+
+# Note: Project is still under development
