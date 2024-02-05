@@ -17,4 +17,4 @@ DarkPatternDL-AutoDetect/Model/dataset.tsv is a text-based dataset for dark patt
 
 Scraping code for non-dark pattern texts is on scraping/. That is implemented using Typscript (Javascript) and Puppeteer.
 
-# Note: Project is still under development
+# Note: Project is still under development!
